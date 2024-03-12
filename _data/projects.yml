@@ -2,15 +2,182 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+#- project: jazznotes.io
+#  role: Founder & Primary Developer
+#  duration: 2012 &mdash; Present
+#  # url: "#"
+#  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+#- project: Springfield Community Outreach Group
+#  role: Co-Founder & Organizer
+#  duration: 2007 &mdash; Present
+#  # url: "#"
+#  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+
+ <h3>Diabetic Retinopathy Screening Model</h3>
+        <b>Fall 2023</b>
+        <i>keywords: Machine Learning, Predictive Modeling, MIMIC Database, SQL Query </i>
+
+        <p>
+            - Utilized machine learning methods for predicting diabetic retinopathy in individuals with diabetes
+            <br>
+            - Extracted relevant data from the MIMIC database for analysis
+            <br>
+            - Conducted data cleaning, feature selection, and exploratory data analysis
+            <br>
+            - Implemented oversampling techniques to address class imbalance and developed machine learning models
+            <br>
+            - Evaluated model performance using metrics such as ROC-AUC, PR-AUC, and calibration curve
+            <br>
+            - Achieved outstanding results with the best model (Random Forests), reaching a cross-validation accuracy of 96% and a testing accuracy of 95.26%
+            <br>
+            - Interpreted based on SHAP Plots
+            <br>
+            - Credit to my teammates: Luning Yang, Mengmeng Du, Yawen Wei
+        </p>
+
+        <br>
+        <a href="/Users/angela/Downloads/Diabetic Retinopathy Screening Model.pdf" > Report</a>
+        <a href="/Users/angela/Downloads/Copy of BIS568 Final Project.pdf"> Presentation Slides</a>
+        
+        <br>
+      
+        <h3>Nurses' Stress Level Prediction </h3>
+        <b>Fall 2023</b>
+        <i>keywords: API, Flask, HTML, Exploratory Data Analysis, Machine Learning, Predictive Modeling</i>
+        <p>
+            - Performed data cleansing and exploratory data analysis
+            <br>
+            - Implemented machine learning models (KNN, Random Forest, XGBoost)
+            <br>
+            - Built API through Flask framework
+            <br>
+            - Output: websites with different tabs; one specific tab can use user input to output predictions based on machine learning models
+            </p>
+        <br>
+        <a href="https://ee1d70dc-daee-49cb-b61c-744ae35da9dc.filesusr.com/ugd/63c7b4_f1bfb3eb82b44e0382c00db437704721.pdf" > Report</a>
+        <a href="/Users/angela/Downloads/BIS634_Final_Project_Presentation.pdf"> Presentation Slides</a>
+     
+        <br>
+
+        <h3>Analysis of Temperature Anomalies</h3>
+        <b>Spring 2022</b>
+        <i>keywords: Time Series Analysis, Predictive Modeling</i>
+        <p>
+            - Used time series methods to analyze the dataset consists of the annual temperature anomalies from the year 1850 to 2021 for the northern hemisphere
+            <br>
+            - Aimed to have a sense of the climate change and potentially other related environmental issues in regards to temperature
+            <br>
+            - Performed time series modeling and model selection(ARIMA) via different ways (ie. plotting out time series plots, ACF, PACF, residuals plots) to find the most appropriate ways to fit our model 
+            <br>
+            - Examined our fitted model by forecasting the last 6 years of the temperature anomalies
+            <br>
+            - Credit to my teammates: Maria Concepcion Cruz, Lucas Choi</p>
+        <br>
+        <a href="https://730241b2-c882-4d0c-b5ec-cd3b4b19de76.filesusr.com/ugd/63c7b4_531ecbccc39f40a9b7ba35feb96c2aee.pdf" > Report</a>
+        <br>
+
+        <h3>The Impact of Exercise on Depression & Analysis of Gender in Sports</h3>
+        <b>Spring 2022</b>
+        <i>keywords: Application of Non-parametric Statistics </i>
+        <p>
+            <b>The Impact of Exercise on Depression</b>
+            <br>
+            - Interested in seeing if physical exercise has an effect on a person’s mood
+            <br>
+            - Analyzed a group of people’s depression based on a quantitative scale, and compared their depression rates based on what exercise group they were in (None (no regular exercise), Jog20 (20 minutes of jogging per day), and Jog60 (60 minutes of jogging per day))
+            <br>
+            - Used the KW- test as the statistical technique
+<br>
+            <b>Analysis of Gender in Sports</b>
+            <br>
+            - Interested in figuring out if gender and sports are independent or dependent of each other
+            <br>
+            - Performed the permutation test for independence
+            <br>
+            - Credit to my teammates: Kayla Pham, Howie Huang
+             <br>
+        <a href="https://730241b2-c882-4d0c-b5ec-cd3b4b19de76.filesusr.com/ugd/63c7b4_0a802b0e84c143d5a52f12fccb1f6c5c.pdf" > Report</a>
+        <br>
+
+        <h3>How do ARBs Differ by Breed in Heifers?</h3>
+        <b>2022</b>
+        <p>
+            - Collaborated to observe video footage recorded by Geovision security IP cameras for a continuous period of 12 hours of 33 Holstein heifers and 9 Jersey heifers
+            <br>
+            - Collected data on heifers’ abnormal behaviors (ie. intersucking, oral manipulation, and tongue rolling)
+            <br>
+            - Aimed to provide insights to dairy farmers in terms of evaluating which type of heifer to raise by assessing how early life feed experience influences later-life behavior and welfare of dairy cattle
+            <br>
+            - Performed hypothesis testing to assess how heifers’ abnormal behaviors differ by breed under a short-term feeding challenge
+            <br>
+            - Analyzed the data through two-sample t-test and visualized statistical results by outputting bar plots
+            <br>
+            Credit to my supervisor: Dr. Blair Downey</p>
+        <br>
+        <a href="https://730241b2-c882-4d0c-b5ec-cd3b4b19de76.filesusr.com/ugd/63c7b4_be6ab51d4cdd432c91373fbb2ba29f38.pdf" > Paper</a>
+        <br>
+
+        <h3>Millennial Marketing and Research</h3>
+        <b>Spring 2022</b>
+        <i>keywords: Information Disconnect, Hypothesis Testing, GenZ, Social Media for Educational Purposes</i>
+        <p>
+            - Investigated to see how does popular social media would improve people’s awareness and understanding of information
+            <br>
+            - Selected the topic of orcas to educate the participants 
+            <br>
+            - Setted up the control and treatment groups among the participants and issued surveys to collect data 
+            <br>
+            - Performed the hypothesis testing through hypothesizing that social media style (TikTok)  is better suited than conventional style (article) to communicate factual information, and can sufficiently improve the awareness of the topic (orcas)
+            <br>
+            - Tested the hypothesis through statistical tools(KW- test, multiple comparison)
+            <br>
+            - Credit to my teammates: Ken Hoang, Xena Zhu, Mark Zhang</p>
+        <br>
+        <a href="https://730241b2-c882-4d0c-b5ec-cd3b4b19de76.filesusr.com/ugd/63c7b4_531ecbccc39f40a9b7ba35feb96c2aee.pdf" > Presentation Slides</a>
+        <br>
+
+        <h3>The Impact of Categorical Variables on the Prevalence of Byssinosis </h3>
+        <b>Fall 2021</b>
+        <i>keywords: Categorical Data Analysis</i>
+        <p>
+            - Utilized a dataset containing the number of people who are affected with Byssinosis (Byssinosis) and those who are not (Non.Byssinosis)
+            <br>
+            - Interested in how/which explanatory variable affect the response variables(the prevalence of byssinosis)
+            <br>
+            - Explored the relationship between the response variables (Byssinosis, Non.Byssinosis) and five explanatory variables (Employment, Workspace, Smoking, Sex, Race) through various statistical tools 
+            <br>
+            - Performed model selection using AIC as our criterion and then using BIC to redo the process for inference
+            <br>
+            - Implemented a Bonferroni Correction to test the model for evidence of non-zero coefficients
+            <br>
+            - Tested our model by conducting a Wald test on our testing data
+            <br>
+            - Credit to my teammates: Yuxi Jiang, Jose Lopez, Jaehyeon Park, Andrew Mai </p>
+        <br>
+        <a href="https://730241b2-c882-4d0c-b5ec-cd3b4b19de76.filesusr.com/ugd/63c7b4_8fa73db462aa4848b70ae1747197135f.pdf" > Report</a>
+        <br>
+
+        <h3>Analysis on Used Cars’ Market</h3>
+        <b>Spring 2020</b>
+        <i>keywords: Application of Statistical Data Science, Used Cars' Market</i>
+        <p>
+            - Selected 3 typical data sets from a general data set that consists 100,000 scrapped used car listings in the British market found from Kaggle
+           <br>
+            - Performed data cleaning and explored how different parameters, such as transmission, mileage, fuel type, etc., influence the selling price of used cars
+            <br>
+            - Used plotting tools (ie. ggplot2) and multiple linear regression to understand the relationship and contribution of car statistics to the price of used cars
+            <br>
+            - Applied variable selection based on correlation matrix to identify the most influential variable in the car statistics that contribute to its price
+            <br>
+            - Conducted outlier removal and analyzed the correlation between each of the car statistics
+            <br>
+            - Tested on whether or not we can fit a model to predict the price of a used car
+            <br>
+            - Credit to my teammates: Youjia Wang, Yuehe Wen</p>
+        <br>
+        <a href="https://730241b2-c882-4d0c-b5ec-cd3b4b19de76.filesusr.com/ugd/63c7b4_9ec267d5344748cd81c58398fd5ccf67.pdf" > Report</a>
+        <br>
+
+    
