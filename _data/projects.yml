@@ -19,3 +19,28 @@
   duration: Spring 2022
   url: "https://730241b2-c882-4d0c-b5ec-cd3b4b19de76.filesusr.com/ugd/63c7b4_531ecbccc39f40a9b7ba35feb96c2aee.pdf"
   description: Utilized time series methods to analyze a dataset comprising annual temperature anomalies spanning from 1850 to 2021 for the northern hemisphere. The primary objective was to gain insights into climate change and potential environmental issues related to temperature. Employed various techniques, including time series modeling and model selection (ARIMA), through the examination of time series plots, ACF, PACF, and residuals plots to identify the most suitable model. Validated the fitted model by forecasting temperature anomalies for the last 6 years. (Credit to my teammates -- Maria Concepcion Cruz, Lucas Choi)
+
+- project: The Impact of Exercise on Depression & Analysis of Gender in Sports
+  role: Application of Non-parametric Statistics
+  duration: Spring 2022
+  url: "https://730241b2-c882-4d0c-b5ec-cd3b4b19de76.filesusr.com/ugd/63c7b4_be6ab51d4cdd432c91373fbb2ba29f38.pdf"
+  description: Investigated the impact of physical exercise on mood by analyzing depression levels across different exercise groups, including None, Jog20, and Jog60, using a quantitative scale. Employed the KW-test as the statistical technique to assess potential effects. Explored the relationship between gender and sports, aiming to determine independence or dependence through a permutation test for independence. (Credit to my teammates: Kayla Pham, Howie Huang)
+
+- project: Millennial Marketing and Research
+  role: Information Disconnect, Hypothesis Testing, GenZ, Social Media for Educational Purposes
+  duration: Spring 2022
+  url: "https://730241b2-c882-4d0c-b5ec-cd3b4b19de76.filesusr.com/ugd/63c7b4_531ecbccc39f40a9b7ba35feb96c2aee.pdf"
+  description: Explored the impact of popular social media on increasing awareness and understanding of information, focusing on the topic of orcas. Established control and treatment groups, issuing surveys to collect data. Hypothesized that the TikTok social media style is more effective than a conventional article in communicating factual information and improving awareness. Tested this hypothesis using statistical tools like the KW-test and multiple comparisons. (Credit to my teammates – Ken Hoang, Xena Zhu, Mark Zhang)
+  
+- project: The Impact of Categorical Variables on the Prevalence of Byssinosis
+  role: Categorical Data Analysis
+  duration: Fall 2021
+  url: "https://730241b2-c882-4d0c-b5ec-cd3b4b19de76.filesusr.com/ugd/63c7b4_8fa73db462aa4848b70ae1747197135f.pdf"
+  description: Utilized a dataset containing the number of people who are affected with Byssinosis (Byssinosis) and those who are not (Non.Byssinosis); Interested in how/which explanatory variable affect the response variables(the prevalence of byssinosis); Explored the relationship between the response variables (Byssinosis, Non.Byssinosis) and five explanatory variables (Employment, Workspace, Smoking, Sex, Race) through various statistical tools; Performed model selection using AIC as our criterion and then using BIC to redo the process for inference; Implemented a Bonferroni Correction to test the model for evidence of non-zero coefficients; Tested our model by conducting a Wald test on our testing data (Credit to my teammates – Yuxi Jiang, Jose Lopez, Jaehyeon Park, Andrew Mai)
+
+- project: Analysis on Used Cars’ Market
+  role: Application of Statistical Data Science, Used Cars' Market
+  duration: Spring 2020
+  url: "https://730241b2-c882-4d0c-b5ec-cd3b4b19de76.filesusr.com/ugd/63c7b4_9ec267d5344748cd81c58398fd5ccf67.pdf"
+  description: Selected 3 typical data sets from a general data set that consists 100,000 scrapped used car listings in the British market found from Kaggle; Performed data cleaning and explored how different parameters, such as transmission, mileage, fuel type, etc., influence the selling price of used cars; Used plotting tools (ie. ggplot2) and multiple linear regression to understand the relationship and contribution of car statistics to the price of used cars; Applied variable selection based on correlation matrix to identify the most influential variable in the car statistics that contribute to its price; Conducted outlier removal and analyzed the correlation between each of the car statistics; Tested on whether or not we can fit a model to predict the price of a used car(Credit to my teammates – Youjia Wang, Yuehe Wen)
+
