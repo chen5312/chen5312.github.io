@@ -14,3 +14,9 @@
   duration: 2007 &mdash; Present
   # url: "#"
   description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+
+  - project: Analysis of Temperature Anomalies
+  role: Time Series Analysis, Predictive Modeling
+  duration: Spring 2022
+  url: "https://730241b2-c882-4d0c-b5ec-cd3b4b19de76.filesusr.com/ugd/63c7b4_531ecbccc39f40a9b7ba35feb96c2aee.pdf"
+  description: Utilized time series methods to analyze a dataset comprising annual temperature anomalies spanning from 1850 to 2021 for the northern hemisphere. The primary objective was to gain insights into climate change and potential environmental issues related to temperature. Employed various techniques, including time series modeling and model selection (ARIMA), through the examination of time series plots, ACF, PACF, and residuals plots to identify the most suitable model. Validated the fitted model by forecasting temperature anomalies for the last 6 years. (Credit to my teammates: Maria Concepcion Cruz, Lucas Choi)
