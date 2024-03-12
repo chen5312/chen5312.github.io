@@ -13,3 +13,9 @@
   duration: Fall 2023
   url: "https://ee1d70dc-daee-49cb-b61c-744ae35da9dc.filesusr.com/ugd/63c7b4_f1bfb3eb82b44e0382c00db437704721.pdf"
   description: Conducted data cleansing and exploratory data analysis, implemented diverse machine learning models (KNN, Random Forest, XGBoost), and constructed an API using the Flask framework. The output comprises websites featuring various tabs, with a specific tab utilizing user input to generate predictions based on the implemented machine learning models.
+
+  - project: Analysis of Temperature Anomalies
+  role: Time Series Analysis, Predictive Modeling
+  duration: Spring 2022
+  url: "https://730241b2-c882-4d0c-b5ec-cd3b4b19de76.filesusr.com/ugd/63c7b4_531ecbccc39f40a9b7ba35feb96c2aee.pdf"
+  description: Utilized time series methods to analyze a dataset comprising annual temperature anomalies spanning from 1850 to 2021 for the northern hemisphere. The primary objective was to gain insights into climate change and potential environmental issues related to temperature. Employed various techniques, including time series modeling and model selection (ARIMA), through the examination of time series plots, ACF, PACF, and residuals plots to identify the most suitable model. Validated the fitted model by forecasting temperature anomalies for the last 6 years. (Credit to my teammates: Maria Concepcion Cruz, Lucas Choi)
