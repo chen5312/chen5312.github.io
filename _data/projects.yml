@@ -5,7 +5,7 @@
 - project: Diabetic Retinopathy Screening Model
   role: Machine Learning, Predictive Modeling, MIMIC Database, SQL Query
   duration: Fall 2023
-  url: chen5312.github.io/Diabetic Retinopathy Screening Model.pdf
+  url: "file:///Users/angela/Downloads/Diabetic%20Retinopathy%20Screening%20Model-converted.html"
   description: Data pertinent to the analysis was extracted from the MIMIC database, followed by tasks including data cleaning, feature selection, and exploratory data analysis. To tackle class imbalance, oversampling techniques were applied, and machine learning models were developed. Model performance was assessed using metrics such as ROC-AUC, PR-AUC, and calibration curve. The top-performing model, Random Forests, yielded exceptional results with a cross-validation accuracy of 96% and a testing accuracy of 95.26%. Interpretation was carried out based on SHAP Plots. (Credit to my teammates -- Luning Yang, Mengmeng Du, Yawen Wei)
             
 - project: Nurses' Stress Level Prediction 
