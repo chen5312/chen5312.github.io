@@ -6,8 +6,14 @@
   role: Machine Learning, Predictive Modeling, MIMIC Database, SQL Query
   duration: Fall 2023
   url: chen5312/chen5312.github.io/Diabetic Retinopathy Screening Model.pdf
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
-
+  description: - Extracted relevant data from the MIMIC database for analysis
+            - Conducted data cleaning, feature selection, and exploratory data analysis
+            - Implemented oversampling techniques to address class imbalance and developed machine learning models
+            - Evaluated model performance using metrics such as ROC-AUC, PR-AUC, and calibration curve
+            - Achieved outstanding results with the best model (Random Forests), reaching a cross-validation accuracy of 96% and a testing accuracy of 95.26%
+            - Interpreted based on SHAP Plots
+            - Credit to my teammates -- Luning Yang, Mengmeng Du, Yawen Wei
+            
 # Springfield Community Outreach Group
 - project: Springfield Community Outreach Group
   role: Co-Founder & Organizer
