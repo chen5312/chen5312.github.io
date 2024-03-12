@@ -15,9 +15,9 @@
 #  # url: "#"
 #  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
 
- - project: <h3>Diabetic Retinopathy Screening Model</h3>
-   duration: <b>Fall 2023</b>
-   keywords: <i>kMachine Learning, Predictive Modeling, MIMIC Database, SQL Query </i>
+ - project: Diabetic Retinopathy Screening Model
+   duration: Fall 2023
+   keywords: Machine Learning, Predictive Modeling, MIMIC Database, SQL Query 
    description: - Utilized machine learning methods for predicting diabetic retinopathy in individuals with diabetes
             <br>
             - Extracted relevant data from the MIMIC database for analysis
@@ -32,11 +32,9 @@
             <br>
             - Interpreted based on SHAP Plots
             <br>
-            - Credit to my teammates: Luning Yang, Mengmeng Du, Yawen Wei
-        </p>
-
+            - Credit to my teammates -- Luning Yang, Mengmeng Du, Yawen Wei
    url: <a href="/Users/angela/Downloads/Diabetic Retinopathy Screening Model.pdf" > Report</a>
         <a href="/Users/angela/Downloads/Copy of BIS568 Final Project.pdf"> Presentation Slides</a>
         
-        <br>
+    
    
