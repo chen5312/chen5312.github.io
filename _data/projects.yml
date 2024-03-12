@@ -5,7 +5,7 @@
 - project: Diabetic Retinopathy Screening Model
   role: Machine Learning, Predictive Modeling, MIMIC Database, SQL Query
   duration: Fall 2023
-  url: "https://docs.google.com/document/u/0/?tgif=d"
+  #url: "https://docs.google.com/document/u/0/?tgif=d"
   description: - Utilized machine learning methods for predicting diabetic retinopathy in individuals with diabetes
             
 
