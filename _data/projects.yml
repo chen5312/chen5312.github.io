@@ -19,22 +19,15 @@
    duration: Fall 2023
    keywords: Machine Learning, Predictive Modeling, MIMIC Database, SQL Query 
    description: - Utilized machine learning methods for predicting diabetic retinopathy in individuals with diabetes
-            <br>
             - Extracted relevant data from the MIMIC database for analysis
-            <br>
             - Conducted data cleaning, feature selection, and exploratory data analysis
-            <br>
             - Implemented oversampling techniques to address class imbalance and developed machine learning models
-            <br>
             - Evaluated model performance using metrics such as ROC-AUC, PR-AUC, and calibration curve
-            <br>
             - Achieved outstanding results with the best model (Random Forests), reaching a cross-validation accuracy of 96% and a testing accuracy of 95.26%
-            <br>
             - Interpreted based on SHAP Plots
-            <br>
             - Credit to my teammates -- Luning Yang, Mengmeng Du, Yawen Wei
-   url: <a href="/Users/angela/Downloads/Diabetic Retinopathy Screening Model.pdf" > Report</a>
-        <a href="/Users/angela/Downloads/Copy of BIS568 Final Project.pdf"> Presentation Slides</a>
+   url: Report: "chen5312/chen5312.github.io/Diabetic Retinopathy Screening Model.pdf"
+        Presentation Slides: "chen5312/chen5312.github.io/Copy of BIS568 Final Project.pdf"
         
     
    
