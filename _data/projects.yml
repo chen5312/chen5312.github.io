@@ -7,13 +7,6 @@
   duration: Fall 2023
   url: "https://docs.google.com/document/u/0/?tgif=d"
   description: - Utilized machine learning methods for predicting diabetic retinopathy in individuals with diabetes
-            - Extracted relevant data from the MIMIC database for analysis
-            - Conducted data cleaning, feature selection, and exploratory data analysis
-            - Implemented oversampling techniques to address class imbalance and developed machine learning models
-            - Evaluated model performance using metrics such as ROC-AUC, PR-AUC, and calibration curve
-            - Achieved outstanding results with the best model (Random Forests), reaching a cross-validation accuracy of 96% and a testing accuracy of 95.26%
-            - Interpreted based on SHAP Plots
-            - Credit to my teammates -- Luning Yang, Mengmeng Du, Yawen Wei
-
+            
 
    
