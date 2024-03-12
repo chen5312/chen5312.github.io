@@ -14,7 +14,7 @@
   url: "https://ee1d70dc-daee-49cb-b61c-744ae35da9dc.filesusr.com/ugd/63c7b4_f1bfb3eb82b44e0382c00db437704721.pdf"
   description: Conducted data cleansing and exploratory data analysis, implemented diverse machine learning models (KNN, Random Forest, XGBoost), and constructed an API using the Flask framework. The output comprises websites featuring various tabs, with a specific tab utilizing user input to generate predictions based on the implemented machine learning models.
 
-  - project: Analysis of Temperature Anomalies
+- project: Analysis of Temperature Anomalies
   role: Time Series Analysis, Predictive Modeling
   duration: Spring 2022
   url: "https://730241b2-c882-4d0c-b5ec-cd3b4b19de76.filesusr.com/ugd/63c7b4_531ecbccc39f40a9b7ba35feb96c2aee.pdf"
