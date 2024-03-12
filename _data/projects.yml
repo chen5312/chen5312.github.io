@@ -5,7 +5,7 @@
 - project: Diabetic Retinopathy Screening Model
   role: Machine Learning, Predictive Modeling, MIMIC Database, SQL Query
   duration: Fall 2023
-   url: ""chen5312/chen5312.github.io/Diabetic Retinopathy Screening Model.pdf""
+  url: "chen5312/chen5312.github.io/Diabetic Retinopathy Screening Model.pdf"
   description: - Utilized machine learning methods for predicting diabetic retinopathy in individuals with diabetes
             - Extracted relevant data from the MIMIC database for analysis
             - Conducted data cleaning, feature selection, and exploratory data analysis
@@ -16,15 +16,4 @@
             - Credit to my teammates -- Luning Yang, Mengmeng Du, Yawen Wei
 
 
-
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
-
-
-        
-    
    
