@@ -3,10 +3,14 @@
 
 # jazznotes.io
 - project: Diabetic Retinopathy Screening Model
-  role: Machine Learning, Predictive Modeling, MIMIC Database, SQL Query
+  role: keywords: Machine Learning, Predictive Modeling, MIMIC Database, SQL Query
   duration: Fall 2023
-  #url: "https://docs.google.com/document/u/0/?tgif=d"
-  description: - Utilized machine learning methods for predicting diabetic retinopathy in individuals with diabetes
-            
+  # url: "#"
+  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
 
-   
+# Springfield Community Outreach Group
+- project: Springfield Community Outreach Group
+  role: Co-Founder & Organizer
+  duration: 2007 &mdash; Present
+  # url: "#"
+  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
