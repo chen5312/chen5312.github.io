@@ -3,7 +3,7 @@
 
 # jazznotes.io
 - project: Diabetic Retinopathy Screening Model
-  role: keywords: Machine Learning, Predictive Modeling, MIMIC Database, SQL Query
+  #role: keywords: Machine Learning, Predictive Modeling, MIMIC Database, SQL Query
   duration: Fall 2023
   # url: "#"
   description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
