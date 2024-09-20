@@ -4,13 +4,13 @@
 - project: VIDALINK - Facilitating Community-Clinical Linkages for Diabetes Management
   role: Digital Health Tool, UI/UX, App Prototype, NLP
   duration: Spring 2024
-  url: "file:///Users/angela/Downloads/BIS640%20Report_Team%206_Vidalink-converted.html"
+  url: "https://875d3ee1-9942-4676-ad4a-21e5dcd6ba2a.filesusr.com/ugd/a337d2_66294e3c53b849e8bd3ce6ac928d63f9.pdf"
   description: We designed VidaLink, a user-centered digital platform, to tackle diabetes management, focusing on Hispanic and Latinx adults in Connecticut by facilitating community-clinical linkages.  Through 8 in-depth interviews with two user types (Patients and Healthcare Providers), we conducted needs assessments and crafted personas, scenarios, and storyboards.  Employing both manual analysis and natural language processing, we interpreted interview findings. Our app prototype, developed using Figma, emphasizes cultural relevance, language inclusivity (English and Spanish), and confidentiality regarding legal status in healthcare settings. To enhance effectiveness and user engagement, we implemented a usability plan featuring cognitive walkthroughs and task-based testing. (Credits to my teammates -- Rachel Diaz, Chris Su, Mustafa Mert Metin)
 
 - project: Diabetic Retinopathy Screening Model
   role: Machine Learning, Predictive Modeling, MIMIC Database, SQL Query
   duration: Fall 2023
-  url: "Diabetic Retinopathy Screening Model-converted.html"
+  url: "https://875d3ee1-9942-4676-ad4a-21e5dcd6ba2a.filesusr.com/ugd/a337d2_506f7c80b8f64056924a227df64fffa2.pdf"
   description: Data pertinent to the analysis was extracted from the MIMIC database, followed by tasks including data cleaning, feature selection, and exploratory data analysis. To tackle class imbalance, oversampling techniques were applied, and machine learning models were developed. Model performance was assessed using metrics such as ROC-AUC, PR-AUC, and calibration curve. The top-performing model, Random Forests, yielded exceptional results with a cross-validation accuracy of 96% and a testing accuracy of 95.26%. Interpretation was carried out based on SHAP Plots. (Credit to my teammates -- Luning Yang, Mengmeng Du, Yawen Wei)
             
 - project: Nurses' Stress Level Prediction 
